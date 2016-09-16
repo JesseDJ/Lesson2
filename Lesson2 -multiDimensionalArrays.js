@@ -1,7 +1,7 @@
 //js array practice
 //1. create an array called "food" and put your 3 favourite foods in it
 
-var food = ['mango','steak', 'broccoli'];
+var food = ['mango','steak', 'broccoli', 'tacos'];
 
 //2. display th first item in the array
 console.log(food[0]);
